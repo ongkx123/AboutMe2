@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="my_name">Kai Xiang</string>
+    <string name="my_profile_pic">Profile Picture</string>
+    <string name="my_profile_desc">
+        \nEducation:haha
+        \n\t hi
+        \n\tMy
+        \n\thaha
+        \n\thaha
+    \n
+        \n
+        \n\tConfucian
+        \n
+        \n
+        \n\tTaruc
+        \n
+        \n\thCambell
+        \n
+    </string>
+</resources>
